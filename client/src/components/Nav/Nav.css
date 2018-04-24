@@ -1,0 +1,11 @@
+.navbar {
+    background-color: black;
+    text-align: center;
+    height: 100px;
+}
+
+.nav-link {
+    color: white;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 25px
+}

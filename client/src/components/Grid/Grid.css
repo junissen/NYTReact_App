@@ -1,0 +1,11 @@
+.gridRow {
+    margin-top: 15px;
+    margin-bottom: 15px
+}
+
+.gridContainer {
+    margin: 0px;
+    background: url("./newspaper.jpeg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
